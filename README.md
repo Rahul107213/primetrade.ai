@@ -18,7 +18,7 @@ The goal is to understand whether trader performance changes across different se
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Rahul107213/primetrade.ai.git
 cd your-repository-name
 
 ---
