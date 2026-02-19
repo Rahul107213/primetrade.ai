@@ -25,15 +25,6 @@ cd your-repository-name
 
 ### 2. Create Virtual Environment (Recommended)
 
-python -m venv venv
-
-Activate:
-
-Windows:
-venv\Scripts\activate
-
-Mac/Linux:
-source venv/bin/activate
 
 ---
 
